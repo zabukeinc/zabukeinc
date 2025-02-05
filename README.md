@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Miftah Regyana</h1>
 <h3 align="center">Software Engineer, mainly focused on Backend Development</h3>
 
-- 🌱 I’m currently learning **Go and Java**
-
 - 📝 I regularly write articles on [Medium](https://medium.com/@miftahregyana)
 
 - 📫 How to reach me **miftahregyana@gmail.com**
