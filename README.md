@@ -1,52 +1,56 @@
 ### Software Engineer
 
-i mostly build things behind the scenes: apis, services, data flows, queues, caches, and the occasional distributed system headache.
+mostly building things behind the scenes. APIs, services, databases, queues, caches, and the occasional distributed system headache.
 
-mostly working with *typescript, nodejs, express and nestjs*. i like understanding how systems behave, where they break, and how to keep them simple without being naive about it.
+my work revolves around **TypeScript, Node.js, Express, and NestJS**, with experience across different languages, frameworks, and architectures.
 
-currently going deeper into *system design and distributed systems*, while continuously exploring better ways to build reliable software.
+i care about understanding how systems behave, where things break, and how to make them better without introducing unnecessary complexity. Good engineering, to me, is as much about knowing what *not* to build as knowing how to build it.
 
-#### stack
+currently exploring more of **ai agentic, software architecture, distributed systems, and AI-driven development**, while continuing to build things and learn along the way.
 
-**backend**
+#### Tech Stack
+
+**Backend**
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,express,java,spring,php,laravel&theme=dark" />
 </p>
 
-**data & messaging**
+**Data & Messaging**
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,elasticsearch,kafka,rabbitmq,firebase&theme=dark" />
 </p>
 
-**ai & llm**
+**AI & LLM**
 
 <p>
-  <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-1A73E8?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-1A73E8?style=flat-square&logo=googlegemini&logoColor=white" />
 </p>
 
-**infrastructure & tools**
+**Infrastructure & Tools**
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker,grafana,git,github,githubactions,linux,nginx,postman&theme=dark" />
 </p>
 
-**frontend**
+**Frontend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap,html,css&theme=dark" />
 </p>
 
-#### into
+#### Areas of Interest
 
 `software architecture` · `distributed systems` · `system design`  
-`event driven systems` · `db` · `developer tooling` · `llm systems`
+`event-driven systems` · `database internals` · `developer tooling`  
+`AI agents` · `LLM applications`
 
 ---
 
 **Build it. Break it. Understand it. Make it simpler.**
 
-[LinkedIn](https://www.linkedin.com/in/miftah-regyana-284539141/) · [Website](https://regyanax.vercel.app) · [Medium](https://medium.com/@miftahregyana)
+[Website](https://regyanax.com)
+[Linkedin](http://linkedin.com/in/regyanax)
